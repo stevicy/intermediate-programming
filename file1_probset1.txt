@@ -1,0 +1,5 @@
+---Even and Odd Checker---
+The 5 is ODD number.
+
+
+
