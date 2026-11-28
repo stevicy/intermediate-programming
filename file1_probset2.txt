@@ -1,0 +1,5 @@
+Player: Conor McGregor (Punch) | Computer: Jon Jones (Choke) | Jon Jones chokes Conor McGregor. Computer WIN
+Player: Khabib Nurmagomedov (Takedown) | Computer: Khabib Nurmagomedov (Takedown) | It's a Tie!
+Player: Dustin Poirier (Kicks) | Computer: Jon Jones (Choke) | Jon Jones chokes Dustin Poirier. Computer WIN
+Player: Alex Pereira (Elbow) | Computer: Conor McGregor (Punch) | Conor McGregor punches Alex Pereira. Computer WIN
+Player: Jon Jones (Choke) | Computer: Dustin Poirier (Kicks) | Jon Jones chokes Dustin Poirier. You WIN!
