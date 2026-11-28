@@ -1,0 +1,35 @@
+---My Personality---
+Humble
+Patient
+God-fearing
+
+---My Sports---
+Gym
+Muay-Thai
+Cycling
+Running
+
+---Selecting Sports---
+Skipping Gym. Not vibes today.
+Muay-Thai It is! Time to unleash the warrior within.
+Skipping Cycling. Not vibes today.
+Skipping Running. Not vibes today.
+
+---My Skills---
+Basic Programming (Python, Java)
+Basic Networking
+
+---My HashSet Schedule Routine---
+Monday, It's school day.
+Thursday, It's school day.
+Friday, It's school day.
+Sunday, It's Sabbath day.
+Wednesday, Halfday shift in morning.
+Tuesday, It's school day.
+Saturday, Wholeday shift.
+
+--Now this is My ideal Lifting weights HashSet--
+80lbs - Shoulder press.
+150lbs - Squat.
+200lbs - Deadlift.
+140lbs - Bench press.
