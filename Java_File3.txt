@@ -1,0 +1,19 @@
+---Salary Computation---
+Employee Name: Steven Payapaya
+Rate per Hour: 70.0
+Hours Worked per Day: 8.0
+Days Worked: 6.0
+Daily Salary: 560.0
+Total Salary: 3360.0
+
+---Even and Odd Checker---
+The 90 is EVEN number.
+
+---Lambda Arithmetic---
+Sum: 20
+Difference: -10
+Product: 75
+Quotient: 0
+
+---Age Conditional Logic---
+Status: Adult
