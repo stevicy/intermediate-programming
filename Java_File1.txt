@@ -1,0 +1,8 @@
+=================== My Comprehensive Simulatuon IRO7 'Working with Files' ========================
+My message: Hello! This is my final term of programming simulation. It's getting tough you know.
+Age: 20
+Name: Steven Payapaya
+Course: BSIT
+Status: Student & PeakGym Assistant
+
+==================================================================================================
